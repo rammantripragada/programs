@@ -1,5 +1,12 @@
-import java.util.HashSet;
+
+/*
+ * @Ram Mantripragada
+ * This  class finds out the different regions in a matrix
+ * Connected cells form a region. cells which have same values
+ * are considered to be connected it the are same either horizontly or vertically
+ */
 import java.util.Set;
+import java.util.HashSet;
 
 public class FindRegions {
 
